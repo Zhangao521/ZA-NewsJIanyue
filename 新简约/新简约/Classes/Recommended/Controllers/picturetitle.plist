@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>species</key>
+		<string>美女</string>
+		<key>url</key>
+		<string>http://api.3g.ifeng.com/clientShortNews?type=beauty_sublimate&amp;page=1&amp;ltime=0&amp;gv=5.2.3&amp;av=5.2.3&amp;uid=862808020397066</string>
+	</dict>
+	<dict>
+		<key>species</key>
+		<string>萌宠</string>
+		<key>url</key>
+		<string>http://api.iclient.ifeng.com/clientShortNews?type=pet&amp;page=1&amp;ltime=0&amp;gv=5.2.3&amp;av=5.2.3&amp;uid=862808020397066</string>
+	</dict>
+</array>
+</plist>
